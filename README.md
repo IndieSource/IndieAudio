@@ -7,10 +7,10 @@
 IndieAudio is a cloud-based audio storage, management, and sharing system. You love your music. Now you can love your music platform. Best of all, you can run it on your own server.
 
 ![Screen Shot](images/screen-shots/welcome.png)
-Welcome Screen
+*Welcome*
 
 ![Screen Shot](images/screen-shots/desktop.png)
-Desktop
+*Desktop*
 
 ## Features
 
